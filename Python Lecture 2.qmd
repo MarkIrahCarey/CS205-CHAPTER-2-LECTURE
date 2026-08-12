@@ -5,7 +5,10 @@ author: "Mark Ira Galang"
 format:
   revealjs:
     theme: moon
-    css: styles.css
+    margin: 0
+    
+css: 
+  - styles.css
 
 execute:
   echo: true
