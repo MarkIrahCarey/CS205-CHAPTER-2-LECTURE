@@ -1,7 +1,3 @@
-.reveal .slides {
-  width: 50% !important;
-}
-
 .reveal .slides section {
   max-height: 100vh;
   overflow-y: auto;
